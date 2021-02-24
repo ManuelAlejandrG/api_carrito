@@ -25,7 +25,7 @@ SECRET_KEY = '3xbzh(ymybe8govh0vuec%y%75@8$ra1%1kqz2-k4ueiom9$py'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
